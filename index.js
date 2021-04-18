@@ -113,7 +113,6 @@ const request = require('request')
 const talkedRecently = new Set();
 //config file
 const config = JSON.parse(fs.readFileSync('config.json', 'utf8'));
-const testing = fs.readFileSync('testing.json', 'utf8');
 //weighted servers
 const weights = JSON.parse(fs.readFileSync('data/weights.json', 'utf8'));
 //FINDS IndexOf minimum in an array
