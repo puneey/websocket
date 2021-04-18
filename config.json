@@ -1,14 +1,12 @@
 {
-  "token": "NTYxOTE4MzExMTA1ODIyNzIw.XKVYwQ.JT8ELg83iy7FMtCupvWi3X5aLo8",
-  "token2": "NTYxOTE4MzExMTA1ODIyNzIw.XKVYwQ.JT8ELg83iy7FMtCupvWi3X5aLo8",
-  "token3": "NTYxOTE4MzExMTA1ODIyNzIw.XKVYwQ.JT8ELg83iy7FMtCupvWi3X5aLo8",
-  "token4": "NTYxOTE4MzExMTA1ODIyNzIw.XKVYwQ.JT8ELg83iy7FMtCupvWi3X5aLo8",
-  "gotriviatoken" : "NTYxOTE4MzExMTA1ODIyNzIw.XKVYwQ.JT8ELg83iy7FMtCupvWi3X5aLo8",
+  "token": "ODMzMjQwMDQ2NjU1ODk3NjMw.YHvdQw.OcUg9fxU2jS_yJfDdXbP2iGTM5k",
+  "token2": "ODMzMjQwMDQ2NjU1ODk3NjMw.YHvdQw.OcUg9fxU2jS_yJfDdXbP2iGTM5k",
+  "token3": "ODMzMjQwMDQ2NjU1ODk3NjMw.YHvdQw.OcUg9fxU2jS_yJfDdXbP2iGTM5k",
+  "token4": "ODMzMjQwMDQ2NjU1ODk3NjMw.YHvdQw.OcUg9fxU2jS_yJfDdXbP2iGTM5k",
+  "gotriviatoken" : "ODMzMjQwMDQ2NjU1ODk3NjMw.YHvdQw.OcUg9fxU2jS_yJfDdXbP2iGTM5k",
   "devs": [
-    "553983197378117635",
-    "475339268458414090",
-    
-  ],
+    "778174421332525066",
+  ], 
   "prefix" : "!",
   "countdownactive": false,
   "currentlyconnected": false,
